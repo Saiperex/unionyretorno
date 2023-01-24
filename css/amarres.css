@@ -1,0 +1,39 @@
+.amarres
+{
+    width: 100%;
+    height: 70vh;
+    background-image: url("../img/estrellas.jpg");
+    background-size: cover;
+    background-position:top;
+}
+.amarres_contenedor
+{
+    width: 60%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.amarres_img
+{
+    width: 50%;
+}
+.amarres_img img
+{
+    width: 100%;
+    border-radius: 10px;
+    border: solid 2px white;
+}
+.amarres_texto
+{
+    width: 50%;
+    color: white;
+}
+.amarres_texto h1
+{
+    text-align: center;
+}
+.amarres_texto p
+{
+    padding: 0 5rem;
+}
