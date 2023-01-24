@@ -1,4 +1,4 @@
-.servicios
+.servicio
 {
     width: 100%;
     height: 70vh;
@@ -6,7 +6,7 @@
     background-position: center;
     margin-top: 10px;
 }
-.servicios_cont
+.servicio_cont
 {
     width: 60%;
     height: 80%;
@@ -16,11 +16,11 @@
     justify-content: space-between;
     text-align: center;
 }
-.servicios_cont h3
+.servicio_cont h3
 {
     font-size: 30px;
 }
-.servicios_cont .medios_pago
+.servicio_cont .medios_pago
 {
     height: 20%;
 }
