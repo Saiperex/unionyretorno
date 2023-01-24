@@ -1,26 +1,54 @@
 .cabecera
 {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
     height: 10vh;
     background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container
+{
+    width: 80%;
+    height: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 .titulo
 {
-    height: 60%;
     width: 30%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.titulo img
+{
+    height: 80%;
 }
 .menu
 {
-    width: 40%;
+    width: 30%;
+    height: 100%;
 }
 .menu nav
 {
+    height:100%;
     display: flex;
-    justify-content: space-around;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
 }
-img
+.menu_item
 {
-    height: 100%;
+    font-size: 16px;
+    font-weight: bold;
+    color: #dd9933;
+}
+.chat
+{
+    color: #ffffff;
+    background-color: #dd9933;
+    padding: 1rem;
+    border-radius: 5px;
 }
