@@ -1,0 +1,26 @@
+.cabecera
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 10vh;
+    background-color: aliceblue;
+}
+.titulo
+{
+    height: 60%;
+    width: 30%;
+}
+.menu
+{
+    width: 40%;
+}
+.menu nav
+{
+    display: flex;
+    justify-content: space-around;
+}
+img
+{
+    height: 100%;
+}
