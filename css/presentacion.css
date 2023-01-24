@@ -1,0 +1,13 @@
+.presentacion
+{
+    width: 100%;
+    height: 70vh;
+    background-image: url("../img/presentacion.jpg");
+    background-position: center;
+}
+.opaco
+{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.64);
+}
