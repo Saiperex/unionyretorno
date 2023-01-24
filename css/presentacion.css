@@ -10,4 +10,59 @@
     width: 100%;
     height: 100%;
     background-color: rgba(0, 0, 0, 0.64);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.secciones
+{
+    width: 60%;
+    height: 50%;
+    display: flex;
+}
+.secciones img
+{
+    border-radius: 10px;
+}
+.comentarios
+{ 
+    width: 50%;
+    display: grid;
+    grid-template-columns: repeat(2,50%);
+    grid-template-rows: 50% 50%;
+    grid-template-areas: "titulo titulo" "comentario1 comentario2";
+}
+.titulos
+{
+    grid-area: titulo;
+    text-align: center;
+    color: #ffffff
+}
+.titulos h3
+{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 0;
+}
+.titulos span
+{
+    font-style: italic;
+    font-size: 16px;
+}
+.comentario1
+{
+    grid-area: comentario1;
+}
+.comentario2
+{
+    grid-area: comentario2;
+}
+.com
+{
+    color: #ffffff;
+    text-align: center;
+}
+.com h6
+{
+    font-size: 15px;
 }
