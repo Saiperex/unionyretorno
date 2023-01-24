@@ -1,0 +1,39 @@
+.servicios
+{
+    width: 100%;
+    height: 70vh;
+    background-image: url("../img/servicios.jpg");
+    background-position: center;
+    margin-top: 10px;
+}
+.servicios_cont
+{
+    width: 60%;
+    height: 80%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+}
+.servicios_cont h3
+{
+    font-size: 30px;
+}
+.servicios_cont .medios_pago
+{
+    height: 20%;
+}
+.whatsapp legend
+{
+    margin-top: 10px;
+    display: block;
+}
+.wp_ico img
+{
+    transition: transform 300ms;
+}
+.wp_ico img:hover
+{
+    transform: scale(1.1);
+}
