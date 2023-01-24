@@ -1,10 +1,11 @@
 .amarres
 {
     width: 100%;
-    height: 70vh;
+    height: 60vh;
     background-image: url("../img/estrellas.jpg");
     background-size: cover;
     background-position:top;
+    margin-top: 10px;
 }
 .amarres_contenedor
 {
