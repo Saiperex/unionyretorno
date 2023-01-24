@@ -39,16 +39,32 @@
     justify-content: space-between;
     align-items: center;
 }
-.menu_item
+.ancor
 {
+    text-decoration: none;
     font-size: 16px;
     font-weight: bold;
     color: #dd9933;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: font-size 500ms ;
+}
+.chat a
+{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .chat
 {
-    color: #ffffff;
+    
     background-color: #dd9933;
     padding: 1rem;
     border-radius: 5px;
+}
+.ancor:hover
+{
+    font-size: 20px;
+    
 }
