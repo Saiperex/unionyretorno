@@ -1,0 +1,35 @@
+.retorno
+{
+    width: 100%;
+    height: 70vh;
+    background-image: url("../img/presentacion.jpg");
+    background-position: center;
+    margin-top: 10px;
+}
+.retorno_contenedor
+{
+    width: 60%;
+    height: 60%;
+    text-align: center;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.retorno_contenedor h2
+{
+    font-size: 40px;
+}
+.retorno_contenedor p
+{
+    font-size: 25px;
+    line-height: 2;
+}
+.medios_pago
+{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: space-between;
+}
