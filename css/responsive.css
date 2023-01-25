@@ -142,4 +142,27 @@
     {
         display: block;
     }
+    .somosT
+    {
+        font-size: 30px;
+        height: 10%;
+    }
+    .textoP
+    {
+        width: 100%;
+    }
+    .textoP p
+    {
+        width: 90%;
+        padding: 10px;
+        font-size: 20px;
+    }
+    .principalmain
+    {
+        height: 100%;
+    }
+    .tyc
+    {
+        width: 90%;
+    }
 }

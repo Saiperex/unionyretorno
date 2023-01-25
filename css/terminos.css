@@ -1,0 +1,22 @@
+.centrador
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.tyc
+{
+    width: 60%;
+}
+.tyc h1
+{
+    margin: 50px 0;
+}
+.tyc h3
+{
+    margin: 25px 0;
+}
+.tyc p
+{
+    font-size: 20px;
+}
