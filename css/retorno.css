@@ -8,18 +8,18 @@
 }
 .retorno_contenedor
 {
-    width: 60%;
-    height: 60%;
+    width: 80%;
+    height: 80%;
     text-align: center;
     color: #ffffff;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
 }
 .retorno_contenedor h2
 {
-    font-size: 40px;
+    font-size: 4vw;
 }
 .retorno_contenedor p
 {
@@ -28,8 +28,11 @@
 }
 .medios_pago
 {
-    width: 100%;
-    height: 30%;
+    width: 80%;
     display: flex;
     justify-content: space-between;
+}
+.medios_pago img
+{
+    width: 10%;
 }

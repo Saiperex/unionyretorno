@@ -15,14 +15,11 @@
     flex-direction: column;
     justify-content: space-between;
     text-align: center;
+    align-items: center;
 }
 .servicio_cont h3
 {
     font-size: 30px;
-}
-.servicio_cont .medios_pago
-{
-    height: 20%;
 }
 .whatsapp legend
 {

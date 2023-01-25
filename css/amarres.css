@@ -9,7 +9,7 @@
 }
 .amarres_contenedor
 {
-    width: 60%;
+    width: 80%;
     height: 80%;
     display: flex;
     justify-content: center;
@@ -18,6 +18,7 @@
 .amarres_img
 {
     width: 50%;
+    
 }
 .amarres_img img
 {
