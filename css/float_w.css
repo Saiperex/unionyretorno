@@ -1,0 +1,14 @@
+main
+{
+    position:relative
+}
+.iconoW
+{
+    position: fixed;
+    top: 80vh;
+    left: 40px;
+    color: white;
+    font-size: 100px;
+    background-color: #25D366;
+    border-radius: 50px;
+}

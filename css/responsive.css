@@ -1,0 +1,116 @@
+@media screen and (max-width: 415px)
+{
+    .menu
+    {
+        display: none;
+    }
+    .secciones
+    {
+        flex-direction: column;
+        width: 90%;
+        height: 90%;
+    }
+    .secciones_img
+    {
+        width: 80%;
+    }
+    .comentarios
+    {
+        width: 100%;
+    }
+    .amarres_contenedor
+    {
+        width: 90%;
+        height: 90%;
+        flex-direction: column;
+    }
+    .amarres_texto
+    {
+        width: 100%;
+    }
+    .amarres_texto p
+    {
+        width: 100%;
+        padding: 0;
+    }
+    .amarres_img
+    {
+        width: 70%;
+        margin: 10px;
+    }
+    .uniones_contenedor
+    {
+        flex-direction: column;
+    }
+    .amarres_img
+    {
+        width: 80%;
+    }
+    .amarres_texto p
+    {
+        text-align: center;
+    }
+    .alejamiento_contenedor
+    {
+        flex-direction: column;
+    }
+    .retorno_contenedor p 
+    {
+        font-size: 5vw;
+    }
+    .retorno_contenedor h2
+    {
+        font-size: 7vw;
+    }
+    .center
+    {
+        width: 90%;
+        height: 90%;
+        flex-direction: column;
+    }
+    .card
+    {
+        width: 100%;
+        height: 30%;
+    }
+    .comentario
+    {
+        height: 240vh;
+    }
+    .servicio_cont
+    {
+        width: 100%;
+    }
+    .servicio_cont h3
+    {
+        font-size: 5vw;
+    }
+    .servicio_cont .medios_pago
+    {
+        width: 90%;
+    }
+    .unionyretorno_center
+    {
+        width: 90%;
+    }
+    .unionyretorno_center h3
+    {
+        font-size: 5vw;
+    }
+    .iconos i
+    {
+        font-size: 9vw;
+    }
+    .iconos legend
+    {
+        font-size: 3vw;
+    }
+    .pagas h3
+    {
+        font-size: 4vw;
+    }
+    .informacion
+    {
+        font-size: 4vw;
+    }
+}
