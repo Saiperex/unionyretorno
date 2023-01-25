@@ -56,10 +56,12 @@
     }
     .retorno_contenedor p 
     {
+        margin-top: 5vh;
         font-size: 5vw;
     }
     .retorno_contenedor h2
     {
+        margin-top: 5vh;
         font-size: 7vw;
     }
     .center
@@ -84,10 +86,11 @@
     .servicio_cont h3
     {
         font-size: 5vw;
+        margin-top: 5vh;
     }
     .servicio_cont .medios_pago
     {
-        width: 90%;
+        width: 70%;
     }
     .unionyretorno_center
     {
@@ -112,5 +115,31 @@
     .informacion
     {
         font-size: 4vw;
+    }
+    .retorno
+    {
+        height: 100%;
+    }
+    .medios_pago
+    {
+        align-items: center;
+        flex-direction: column;
+    }
+    .medios_pago img
+    {
+        width: 100%;
+        margin-top: 2vh;
+    }
+    .servicio
+    {
+        height:100% ;
+    }
+    .whatsapp
+    {
+        margin: 5vh 0;
+    }
+    .buttonMenu
+    {
+        display: block;
     }
 }
